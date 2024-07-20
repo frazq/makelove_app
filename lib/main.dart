@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:make_love/pages/splash.dart';
 
-import 'package:makelove_app/pages/splash.dart';
 
 
 

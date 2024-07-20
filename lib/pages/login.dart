@@ -1,6 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'package:makelove_app/pages/home.dart';
+import 'package:make_love/pages/home.dart';
+
 
 
 
