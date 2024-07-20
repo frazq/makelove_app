@@ -34,7 +34,7 @@ class LoginPage extends StatelessWidget {
                 const Text(
                   'Stwórz swój profil',
                   style: TextStyle(
-                    fontStyle: FontStyle.italic,
+                    fontStyle: FontStyle.normal,
                     color: Colors.white,
                     fontSize: 32,
                   ),
@@ -46,7 +46,7 @@ class LoginPage extends StatelessWidget {
                     'Stwórz profil aby móc poznawać swoje postępy i kontynuować',
                     textAlign: TextAlign.center,
                     style: TextStyle(
-                      fontStyle: FontStyle.italic,
+                      fontStyle: FontStyle.normal,
                       color: Colors.white,
                       fontSize: 15,
                       
@@ -86,11 +86,12 @@ class LoginPage extends StatelessWidget {
                     ),
                   ),
                 ),
-const SizedBox(height: 50),
+const SizedBox(height: 50, width: 50,),
 
 Padding(
-  padding: const EdgeInsets.symmetric(horizontal: 16.0),
+  padding: const EdgeInsets.symmetric(horizontal: 50.0),
   child: ElevatedButton(
+    style: ButtonStyle(minimumSize: WidgetStateProperty.all(const Size(200, 50))),
     onPressed: () {
       Navigator.push(
         context,
@@ -104,6 +105,7 @@ Padding(
         fontStyle: FontStyle.italic,
         color: Color.fromARGB(255, 0, 0, 0),
         fontSize: 15,
+        
       ),
     ),
    
