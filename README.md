@@ -23,4 +23,4 @@ MakeLoveApp to nie tylko aplikacja, to Twój przewodnik po świecie relacji! ️
   
   
   
-  Dashboard is comming:
+  User Dashboard is comming:
