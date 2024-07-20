@@ -14,12 +14,12 @@ Społeczność: Połącz się z innymi użytkownikami, którzy również szukaj�
 MakeLoveApp to nie tylko aplikacja, to Twój przewodnik po świecie relacji! ️
 
   🩷🩷🩷
-  SplashScreen:                                      LoginPage: 
+  SplashScreen/                                     LoginPage
   
   ![image](https://github.com/user-attachments/assets/8a648e59-ce77-40ac-ace5-0cf6786c5031)
   ![image](https://github.com/user-attachments/assets/ae5f2fdc-8f03-4a1b-9f87-a72d02090df3)
   
-  LoginPage: 
+  
   
   
   
