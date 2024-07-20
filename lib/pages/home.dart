@@ -11,13 +11,13 @@ void main() => runApp(
 
   @override
   Widget build(BuildContext context) {
-    return   Scaffold(
+    return   const Scaffold(
       backgroundColor: Colors.black,
       body: SafeArea(
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
-            const Padding(
+            Padding(
               padding: EdgeInsets.all(12.0),
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -27,13 +27,13 @@ void main() => runApp(
                 ],
               ),
               ),
-              const Padding(
+              Padding(
                 padding: EdgeInsets.all(18.0),
                 child: Text('Wybierz co chcesz najpiew zrobić polecam Preferowane na start!',
                 style: TextStyle(color: Colors.white,fontWeight: FontWeight.bold, fontSize: 17,letterSpacing: 2.0 ,fontFamily: 'Courier'),),
                 ),
                 Padding(
-                  padding: const EdgeInsets.all(12.0),
+                  padding: EdgeInsets.all(12.0),
                   child: Center(
                     child: Wrap(
                       
@@ -42,16 +42,16 @@ void main() => runApp(
                           width: 160.0,
                           height: 160.0,
                           child: Card(
-                            color: const Color.fromARGB(255, 21, 21, 21),
+                            color: Color.fromARGB(255, 21, 21, 21),
                             child: Padding(
-                              padding: const EdgeInsets.all(8.8),
+                              padding: EdgeInsets.all(8.8),
                               child: Column(
                                 children: <Widget>[
                                   Icon(Icons.today_rounded),
-                                  const SizedBox(
+                                  SizedBox(
                                     height: 10.0,
                                   ),
-                                  const Text(
+                                  Text(
                                     "Preferowana Płeć",
                                     style: TextStyle(
                                       color: Colors.white,
@@ -59,10 +59,10 @@ void main() => runApp(
                                       fontSize: 18.0
                                     ),
                                   ),
-                                  const SizedBox(
+                                  SizedBox(
                                     height: 5.0,
                                   ),
-                                  const Text(
+                                  Text(
                                     "1 Quiz",
                                     style: TextStyle(
                                       color: Colors.white,

@@ -42,6 +42,8 @@ class GridDashboard extends StatelessWidget {
     ),
   ];
 
+   GridDashboard({super.key});
+
   @override
   Widget build(BuildContext context) {
     var color = 0xff453658;
