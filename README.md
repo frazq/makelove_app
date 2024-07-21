@@ -1,17 +1,11 @@
-# MakeLove
+:computer:MakeLoveApp: Zbuduj pewność siebie i relacje:man_raising_hand:! **Masz dość bycia nieśmiałym? Nie wiesz, jak poznać nowych ludzi i budować relacje? **
 
-💻MakeLoveApp: Zbuduj pewność siebie i relacje🙋‍♂️!
-**Masz dość bycia nieśmiałym?  Nie wiesz, jak poznać nowych ludzi i budować relacje? **
+MakeLoveApp to aplikacja stworzona z myślą o Tobie! Pomaga ona przełamać bariery i otworzyć się na nowe znajomości, zarówno romantyczne, jak i platoniczne.
 
-MakeLoveApp to aplikacja stworzona z myślą o Tobie!  Pomaga ona przełamać bariery i otworzyć się na nowe znajomości, zarówno romantyczne, jak i platoniczne.
+:round_pushpin:Co oferuje MakeLoveApp?:round_pushpin:
 
-📍Co oferuje MakeLoveApp?📍
+Quizy i testy: Poznaj siebie lepiej i odkryj swoje preferencje w zakresie relacji. Porady i wskazówki: Naucz się, jak budować pewność siebie, nawiązywać kontakt z innymi i rozwijać satysfakcjonujące relacje. MakeLoveApp to nie tylko aplikacja, to Twój przewodnik po świecie relacji! ️
 
-Quizy i testy: Poznaj siebie lepiej i odkryj swoje preferencje w zakresie relacji.
-Porady i wskazówki: Naucz się, jak budować pewność siebie, nawiązywać kontakt z innymi i rozwijać satysfakcjonujące relacje.
-Gry i zadania: Baw się i przełamuj lody w zabawny i angażujący sposób.
-Społeczność: Połącz się z innymi użytkownikami, którzy również szukają nowych znajomości i wsparcia.
-MakeLoveApp to nie tylko aplikacja, to Twój przewodnik po świecie relacji! ️
 
   🩷🩷🩷
   SplashScreen/                                     LoginPage
